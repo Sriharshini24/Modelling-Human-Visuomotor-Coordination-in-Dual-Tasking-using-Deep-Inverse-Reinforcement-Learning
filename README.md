@@ -2,9 +2,6 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EiK9IjsQqDq9hbtwngzoO7z62bH1qr1a#scrollTo=RR_pAuVrR2po)
 
-Dataset Analysis
-[Project Files and Data (OneDrive)](https://aseblr-my.sharepoint.com/:f:/g/personal/ys_yogesh_blr_amrita_edu/Ejd79UaE8L9NnHobF-sonf8Bdgez9XGVcGAzmAaJ25VoRQ?e=7djGKL)
-
 
 Project Overview
 Title: Modeling Human Visuomotor Coordination in Dual-Tasking using Deep Inverse Reinforcement Learning
